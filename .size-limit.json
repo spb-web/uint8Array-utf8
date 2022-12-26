@@ -1,0 +1,12 @@
+[
+  {
+    "path": "dist/index.js",
+    "import": "{ uint8ArrayToUtf8, utf8ToUint8Array }",
+    "limit": "1 kb"
+  },
+  {
+    "path": "dist/index.mjs",
+    "import": "{ uint8ArrayToUtf8, utf8ToUint8Array }",
+    "limit": "1 kb"
+  }
+]
